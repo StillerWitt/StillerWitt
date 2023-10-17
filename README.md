@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Phellipe Nascimrnto!
-- 👀 I’m interested in Python, JavaScript, SLQ and back-end tech
-- 🌱 I’m currently learning Python and JS 
+- 👋 Hi, I’m Phellipe!
+- 👀 I’m interested in Python, Data Science, and math
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking for junior software jobs!
 - 📫 How to reach me phelipe.nascimento@outlook.com
 
